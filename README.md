@@ -1,4 +1,5 @@
 # 🎤 Mumble Stick
+<img width="800" height="800" alt="Nový projekt(55)" src="https://github.com/user-attachments/assets/05f97e82-fe5d-4922-a7d7-8277c3d6bbde" />
 
 **Mumble Stick** is a fun, interactive desktop buddy (shimeji-style) that brings your favorite rapper to your screen. But watch out – he's a bit of a prankster!
 
